@@ -27,7 +27,7 @@ Most of the examples and exercises were developed based on the following textboo
 
 ## 📂 Repository Structure
 
-  * `Capitulo_1_Exemplos_Smith_V_N_TERMO_Lipy...`: A notebook with solved examples from Chapter 1 of the book.
+  * `Capitulo_1_Exemplos_Smith_V_N_TERMO_L.ipynb`: A notebook with solved examples from Chapter 1 of the book.
   * `ExemploVN_Termo2.py`: A Python script with a specific Thermodynamics example.
   * `Thermodynamics - Smith Vann Ness - Notebook...`: A general notebook with a collection of exercises and examples from the book.
 
