@@ -1,7 +1,7 @@
 
 ## Chemical Engineering Thermodynamics with Python 
 
-[EN]: 
+### [EN]: 
 
 This repository is a collection of **Python** codes, primarily implemented in Jupyter Notebooks, for solving problems in **Chemical Engineering Thermodynamics**. The examples and exercises are based on the classic textbook in the field.
 
@@ -66,7 +66,7 @@ Contributions are very welcome\! If you have solved a new exercise from the book
 4.  **Push** to the Branch (`git push origin feature/Exercise-Chapter-2`).
 5.  Open a **Pull Request**.
 
-[PT]: 
+
 ### [PT]:
 
 # Termodinâmica para Engenharia Química com Python
