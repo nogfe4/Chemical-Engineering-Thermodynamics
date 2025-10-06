@@ -1,5 +1,8 @@
 
 ## Chemical Engineering Thermodynamics with Python 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Status](https://img.shields.io/badge/Status-Concluído-green) 
 
 ### [EN]: 
 
