@@ -1,5 +1,5 @@
 
-## Chemical Engineering Thermodynamics with Python 
+## Chemical Engineering Thermodynamics with Python 💻🧪 - Author: @Nogfe4 - Chemical Engineering Student
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Status-Em_Andamento-yellow) 
@@ -8,18 +8,18 @@
 
 This repository is a collection of **Python** codes, primarily implemented in Jupyter Notebooks, for solving problems in **Chemical Engineering Thermodynamics**. The examples and exercises are based on the classic textbook in the field.
 
-## 🎯 About The Project
+## About The Project
 
 The main goal of this project is to provide practical and computational study material for students and professionals who use the book **"Introduction to Chemical Engineering Thermodynamics"** by Smith, Van Ness, and Abbott. This repository transforms the theoretical problems from the book into coded solutions, making it easier to learn the concepts and verify results.
 
-## 📚 Core Reference Book
+## Core Reference Book
 
 Most of the examples and exercises were developed based on the following textbook:
 
   * **Title:** *Introduction to Chemical Engineering Thermodynamics*
   * **Authors:** J.M. Smith, H.C. Van Ness, M.M. Abbott
 
-## 💻 Technologies Used
+## Technologies Used
 
   * **Python 3.x**: The primary language for calculations.
   * **Jupyter Notebook**: For interactively presenting problems and their solutions.
@@ -30,11 +30,11 @@ Most of the examples and exercises were developed based on the following textboo
 
 ## 📂 Repository Structure
 
-  * `Capitulo_1_Exemplos_Smith_V_N_TERMO_L.ipynb`: A notebook with solved examples from Chapter 1 of the book.
-  * `ExemploVN_Termo2.py`: A Python script with a specific Thermodynamics example.
-  * `Thermodynamics - Smith Vann Ness - Notebook...`: A general notebook with a collection of exercises and examples from the book.
+  * `Thermodynamics - Smith Vann Ness - Chapter Notebooks`: Collection of notebooks containing exercises and worked examples organized by chapter.
+  * `requirments` - Text file that lists the Python libraries required for the project to run correctly in any environment.
+  * `README` - This file
 
-## 🚀 How to Use
+## How to Use
 
 ### Prerequisites
 
@@ -59,7 +59,7 @@ To run the notebooks, you will need Python and Jupyter installed, along with the
     ```
 3.  In your browser, click on the `.ipynb` file you wish to view.
 
-## 🤝 How to Contribute
+## How to Contribute
 
 Contributions are very welcome\! If you have solved a new exercise from the book or have an optimization for existing code, please follow these steps:
 
@@ -76,7 +76,7 @@ Contributions are very welcome\! If you have solved a new exercise from the book
 
 Este repositório é uma coleção de códigos em **Python**, implementados principalmente em Jupyter Notebooks, para resolver problemas de **Termodinâmica para Engenharia Química**. Os exemplos e exercícios são baseados no livro-texto clássico da área.
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 O objetivo principal é fornecer um material de estudo prático e computacional para estudantes e profissionais que utilizam o livro **"Introdução à Termodinâmica da Engenharia Química"** de Smith, Van Ness e Abbott. O repositório transforma os problemas teóricos do livro em soluções programadas, facilitando o aprendizado e a verificação de resultados.
 
@@ -87,7 +87,7 @@ A maioria dos exemplos e exercícios foi desenvolvida com base na seguinte obra:
   * **Título:** *Introduction to Chemical Engineering Thermodynamics*
   * **Autores:** J.M. Smith, H.C. Van Ness, M.M. Abbott
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
   * **Python 3.x**: Linguagem principal para os cálculos.
   * **Jupyter Notebook**: Para a apresentação interativa dos problemas e suas soluções.
@@ -98,11 +98,11 @@ A maioria dos exemplos e exercícios foi desenvolvida com base na seguinte obra:
 
 ## 📂 Estrutura do Repositório
 
-  * `Capitulo_1_Exemplos_Smith_V_N_TERMO_Lipy...`: Notebook com exemplos resolvidos do Capítulo 1 do livro.
-  * `ExemploVN_Termo2.py`: Script em Python com um exemplo específico de Termodinâmica.
-  * `Thermodynamics - Smith Vann Ness - Notebook...`: Notebook geral com uma coleção de exercícios e exemplos do livro.
+  * `Thermodynamics - Smith Vann Ness - Notebooks dos capítulos do lívro`: Cada arquivo Jupyter é a resolução de exemplos e exercícios presentes no livro
+  * `requirments` - Arquivo de texto que lista as bibliotecas Python necessárias para que o projeto rode corretamente em qualquer ambiente.
+  * `README` - Esse aqruivo
 
-## 🚀 Como Utilizar
+## Como Utilizar
 
 ### Pré-requisitos
 
@@ -127,7 +127,7 @@ Para executar os notebooks, você precisará ter o Python e o Jupyter instalados
     ```
 3.  No seu navegador, clique no arquivo `.ipynb` que deseja visualizar.
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 Contribuições são muito bem-vindas\! Se você resolveu um novo exercício do livro ou otimizou um código existente, siga os passos:
 
